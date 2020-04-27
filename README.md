@@ -16,15 +16,15 @@ In explore folder, we saved some models that we tested, include different model 
 Some parameters in the experiment settings:
 
 
-| Models config    | units of encoder layer    | activation function | clip ratio   | discount factor | Optimizer | softupdate parameter | 
-| :----------------: | :---------: | :-------------: | :-----: | :---------: | :-------------: | :------------: | 
-|   DGN  a | (128 , 128) | 0.47          | 0.804 | 0.5       | 0.688         | 0.7058     |
-| DGN  b  | (128 , 128) | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757       |
-| DGN  c  |(128 , 128) | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757    |
-| DGN  d  | (128 , 128) | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757     |
-| DGN  e  | (128 , 128) | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757     |
-| DGN  f  | (128 , 128)| 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757    |
-| DGN  g  | (128 , 128) | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757    |
+| Models config    | units of encoder layer    | activation function | clip ratio   | discount factor | Optimizer | softupdate parameter | learning rate|
+| :----------------: | :---------: | :-------------: | :-----: | :---------: | :-------------: | :------------: | :-----:|
+|   DGN  a | (128 , 128) | ReLU         | 0.3 | 0.5       | 0.688         | 0.7058     |（1e-4 , 1e-4)|
+| DGN  b  | (128 , 128) | ReLU        | 0.3 | 0.83      | 0.8367        | 0.8757       |（1e-4 , 1e-4)|
+| DGN  c  |(128 , 128) | ReLU        | 0.3| 0.83      | 0.8367        | 0.8757    |（1e-4 , 1e-4)（1e-4 , 1e-4)|
+| DGN  d  | (128 , 128) | ReLU        | 0.3 | 0.83      | 0.8367        | 0.8757    | （1e-4 , 1e-4)|
+| DGN  e  | (128 , 128) | ReLU         | 0.3 | 0.83      | 0.8367        | 0.8757    | （1e-4 , 1e-4)|
+| DGN  f  | (128 , 128)| ReLU         | 0.3 | 0.83      | 0.8367        | 0.8757    |（1e-4 , 1e-4)|
+| DGN  g  | (128 , 128) | ReLU         | 0.3 | 0.83      | 0.8367        | 0.8757    |（1e-4 , 1e-4)|
 
 
 

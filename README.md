@@ -29,7 +29,7 @@ Some parameters in the experiment settings:
 | DDPG   | (128 , 128) | eLU         | 0.3 | 0.9     | adam        | 0.01    |（2.5e-4 , 1e-4)|2660.89|
 | MAPPO   | (128 , 128) | ReLU         | 0.3 | 0.9     | adam        | 0.01    |1e-4 , 1e-4)|2975.76|
 
-
+You can run the python files with these above configurations with 100 runs, the triaining perfomance averaged over 10 different seeds is shown in the following figure:
 
 
 

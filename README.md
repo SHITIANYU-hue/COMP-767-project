@@ -17,7 +17,7 @@ Some parameters in the experiment settings:
 
 
 | Models config    | units of encoder layer    | activation function | clip ratio   | discount factor | Optimizer | softupdate parameter | 
-| ------------- | ----- | ------------- | ----- | --------- | ------------- | ------------ | 
+| ---------------- | --------- | ------------- | ----- | --------- | ------------- | ------------ | 
 | DGN  a | 0.776 | 0.47          | 0.804 | 0.5       | 0.688         | 0.7058     |
 | DGN  b  | 0.883 | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757       |
 | DGN  c  | 0.883 | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757    |
@@ -28,10 +28,6 @@ Some parameters in the experiment settings:
 
 
 
-| Dataset       | LR    | Decision Tree | SVM   | Ada Boost | Random forest | MLP(10, 256) | 
-| ------------- | ----- | ------------- | ----- | --------- | ------------- | ------------ | 
-| 20 news group | 0.776 | 0.47          | 0.804 | 0.5       | 0.688         | 0.6761 |
-| IMDB Reviews  | 0.883 | 0.702         | 0.877 | 0.83      | 0.8367        |0.8916 |
 
 
 

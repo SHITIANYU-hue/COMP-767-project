@@ -18,12 +18,12 @@ Some parameters in the experiment settings:
 
 | Models config    | units of encoder layer    | activation function | clip ratio   | discount factor | Optimizer | softupdate parameter | learning rate|max returns|
 | :----------------: | :---------: | :-------------: | :-----: | :---------: | :-------------: | :------------: | :-----:|:---:|
-|   DGN  a | (128 , 128) | ReLU         | 0.3 | 0.9      | adam         | 0.01    |（1e-4 , 1e-4)||
-| DGN  b  | (128 , 128) | ReLU        | 0.3 | 0.9    | adam      | 0.01       |（1e-4 , 1e-4)||
-| DGN  c  |(128 , 128) | ReLU        | 0.3| 0.9     | adam       | 0.01   |（1e-4 , 1e-4)（1e-4 , 1e-4)||
-| DGN  d  | (128 , 128) | ReLU        | 0.3 | 0.9    | adam      |0.01    | （1e-4 , 1e-4)||
-| DGN  e  | (128 , 128) | ReLU         | 0.3 | 0.9      | adam       | 0.01    | （1e-4 , 1e-4)||
-| DGN  f  | (128 , 128)| ReLU         | 0.3 | 0.9      | adam       | 0.01    |（1e-4 , 1e-4)||
+|   DGN  a | (128 , 128) | ReLU         | 0.3 | 0.9      | adam         | 0.01    |（1e-4 , 1e-4)|`2982.97`|
+| DGN  b  | `(512 , 128)` | ReLU        | 0.3 | 0.9    | adam      | 0.01       |（1e-4 , 1e-4)|2956.09|
+| DGN  c  |`(128 , 64,128)` | ReLU        | 0.3| 0.9     | adam       | 0.01   |（1e-4 , 1e-4)（1e-4 , 1e-4)|2900.04|
+| DGN  d  | (128 , 128) | ReLU        | `0.15 `| 0.9    | adam      |0.01    | （1e-4 , 1e-4)|2972.85|
+| DGN  e  | (128 , 128) | `eLU  `       | 0.3 | 0.9      | adam       | 0.01    | （1e-4 , 1e-4)|2900.04|
+| DGN  f  | (128 , 128)| ReLU         | 0.3 | 0.9      | adam       | 0.01    |`  （2.5e-4 , 1e-4)`  |2898.77|
 | DGN  g  | (128 , 128) | ReLU         | 0.3 | 0.9     | adam        | 0.01    |（1e-4 , 1e-4)||
 
 

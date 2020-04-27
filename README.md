@@ -6,7 +6,9 @@ This is the source code of COMP 767 group project of Tianyu Shi & Jiawei Wang.
 Our main implementation of this model is in dgn_xxx (xxx represents for different scenario, e.g. ring network, figure eight network, or minicity network)
 
 In each folder, you can find e.g. xxx_main-DGN.py this is the file to run; 
+
 In DGN.py, we define the main network structure and training process; 
+
 In xxx_Env.py we define the simulation environment. 
 
 Also, we implemented transportation method (Intelligent driver model), RL methods (DDPG, multi-agent version of PPO) in three different scenarios.

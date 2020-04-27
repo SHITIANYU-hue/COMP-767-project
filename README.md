@@ -1,4 +1,4 @@
-This is the source code for group project of Tianyu Shi (tianyu.shi3@mail.mcgill.ca) and Jiawei Wang(jiawei.wang4@mail.mcgill.ca).
+This is the source code of COMP 767 group project of Tianyu Shi & Jiawei Wang.
 
 
 ## Code structure:
@@ -10,4 +10,7 @@ In each folder, you can find e.g. xxx_main-DGN.py this is the file to run; In DG
 Also, we implemented DDPG, multi-agent version of PPO in three different scenarios.
 
 In explore folder, we saved some models that we tested, include different model structures, number of agents, etc.
+
+## Contact
+Tianyu Shi(tianyu.shi3@mail.mcgill.ca) 
 

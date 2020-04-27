@@ -11,6 +11,8 @@ Also, we implemented DDPG, multi-agent version of PPO in three different scenari
 
 In explore folder, we saved some models that we tested, include different model structures, number of agents, etc.
 
-## Contact
+## How to reproduce:
+
+## Contact:
 Tianyu Shi(tianyu.shi3@mail.mcgill.ca) 
 

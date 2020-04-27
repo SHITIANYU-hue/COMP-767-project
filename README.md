@@ -15,7 +15,11 @@ In explore folder, we saved some models that we tested, include different model 
 
 ## How to reproduce:
 
-Some parameters in the experiment settings:
+Our model structure is :
+![我的新浪微博](figure/strucutre.png "我的新浪微博")
+
+
+Some parameters of models in the experiment settings:
 
 
 | Models config    | units of encoder layer    | activation function | clip ratio   | discount factor | Optimizer | softupdate parameter | learning rate|max returns|

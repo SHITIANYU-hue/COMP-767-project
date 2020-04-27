@@ -23,7 +23,7 @@ Our model structure is :
 Some parameters of models in the experiment settings:
 
 
-| Models config    | units of encoder layer    | activation function | clip ratio   | discount factor | Optimizer | softupdate parameter | learning rate|max returns|
+| Models config    | units of encoder layer    | activation function | clip ratio   | discount factor | Optimizer | softupdate parameter | learning rate(actor+critic)|max returns|
 | :----------------: | :---------: | :-------------: | :-----: | :---------: | :-------------: | :------------: | :-----:|:---:|
 |   DGN  a | (128 , 128) | ReLU         | 0.3 | 0.9      | adam         | 0.01    |（1e-4 , 1e-4)|`2982.97`|
 | DGN  b  | `(512 , 128)` | ReLU        | 0.3 | 0.9    | adam      | 0.01       |（1e-4 , 1e-4)|2956.09|

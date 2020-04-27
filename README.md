@@ -16,10 +16,15 @@ In explore folder, we saved some models that we tested, include different model 
 Some parameters in the experiment settings:
 
 
-| Models       | LR    | Decision Tree | SVM   | Ada Boost | Random forest | MLP(10, 256) | MLP(30, 1024) | XG Boost | LSTM   |
+| Models config    | LR    | Decision Tree | SVM   | Ada Boost | Random forest | MLP(10, 256) | MLP(30, 1024) | XG Boost | LSTM   |
 | ------------- | ----- | ------------- | ----- | --------- | ------------- | ------------ | ------------- | -------- | ------ |
 | DGN config a | 0.776 | 0.47          | 0.804 | 0.5       | 0.688         | 0.7058       | 0.7408        | 0.6164   | 0.6761 |
 | DGN config b  | 0.883 | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757       | 0.8801        | 0.7398   | 0.8916 |
+| DGN config c  | 0.883 | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757       | 0.8801        | 0.7398   | 0.8916 |
+| DGN config d  | 0.883 | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757       | 0.8801        | 0.7398   | 0.8916 |
+| DGN config e  | 0.883 | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757       | 0.8801        | 0.7398   | 0.8916 |
+| DGN config f  | 0.883 | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757       | 0.8801        | 0.7398   | 0.8916 |
+| DGN config g  | 0.883 | 0.702         | 0.877 | 0.83      | 0.8367        | 0.8757       | 0.8801        | 0.7398   | 0.8916 |
 
 
 

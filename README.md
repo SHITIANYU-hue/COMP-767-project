@@ -35,7 +35,7 @@ Some parameters of models in the experiment settings:
 | MAPPO   | (128 , 128) | ReLU         | 0.3 | 0.9     | adam        | 0.01    |1e-4 , 1e-4)|2975.76|
 
 You can run the python files with these above configurations with 100 runs, the triaining perfomance averaged over 10 different seeds is shown in the following figure:
-![structure](figure/returns.pdf)
+![returns](figure/Screen Shot 2020-04-27 at 3.25.59 PM.png)
 
 
 

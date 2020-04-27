@@ -16,7 +16,8 @@ In explore folder, we saved some models that we tested, include different model 
 ## How to reproduce:
 
 Our model structure is :
-(figure/strucutre.png)
+![structure](figure/strucutre.png)
+
 
 
 Some parameters of models in the experiment settings:

@@ -1,3 +1,5 @@
+This is the source code for group project of Tianyu Shi (tianyu.shi3@mail.mcgill.ca) and Jiawei Wang(jiawei.wang4@mail.mcgill.ca).
+
 
 ## Code structure:
 

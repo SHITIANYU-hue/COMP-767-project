@@ -44,8 +44,9 @@ We use the environment exactly the same as the conda environment in Flow, you ca
 
 
 ## Results:
-Simulation video：https://youtu.be/rL95dglox2c
-models：https://mcgill-my.sharepoint.com/:f:/g/personal/tianyu_shi3_mail_mcgill_ca/EkBvFSLYhLFPid4nGEmVUl4B2muwkVa87w_nIwestZOHcQ?e=qHUozP
+Simulation video[url:https://youtu.be/rL95dglox2c] 
+
+models[url:https://mcgill-my.sharepoint.com/:f:/g/personal/tianyu_shi3_mail_mcgill_ca/EkBvFSLYhLFPid4nGEmVUl4B2muwkVa87w_nIwestZOHcQ?e=qHUozP]
 
 
 

@@ -40,14 +40,15 @@ You can run the python files with these above configurations with 100 runs, the 
 ![returns](figure/return.png)
 
 ## Requirements:
-We use the environment exactly the same as the conda environment in Flow, you can install Flow by following this instruction: https://flow.readthedocs.io/en/latest/flow_setup.html#local-installation-of-flow
+We use the environment exactly the same as the conda environment in Flow, you can install Flow by following this 
+[Instructino](https://flow.readthedocs.io/en/latest/flow_setup.html#local-installation-of-flow "悬停显示"):
 
 
 ## Results:
-Simulation video[url:https://youtu.be/rL95dglox2c] 
 
+[Simulations](https://youtu.be/rL95dglox2c "悬停显示")	
 
-[models][models] [models]:url:https://mcgill-my.sharepoint.com/:f:/g/personal/tianyu_shi3_mail_mcgill_ca/EkBvFSLYhLFPid4nGEmVUl4B2muwkVa87w_nIwestZOHcQ?e=qHUozP "github"
+[models](https://mcgill-my.sharepoint.com/:f:/g/personal/tianyu_shi3_mail_mcgill_ca/EkBvFSLYhLFPid4nGEmVUl4B2muwkVa87w_nIwestZOHcQ?e=qHUozP "悬停显示")	
 
 ## Contact:
 Tianyu Shi(tianyu.shi3@mail.mcgill.ca) 

@@ -41,7 +41,7 @@ You can run the python files with these above configurations with 100 runs, the 
 
 ## Requirements:
 We use the environment exactly the same as the conda environment in Flow, you can install Flow by following this 
-[Instructino](https://flow.readthedocs.io/en/latest/flow_setup.html#local-installation-of-flow "悬停显示"):
+[Instruction](https://flow.readthedocs.io/en/latest/flow_setup.html#local-installation-of-flow "悬停显示"):
 
 
 ## Results:

@@ -48,7 +48,7 @@ We use the environment exactly the same as the conda environment in Flow, you ca
 
 [Simulations](https://youtu.be/rL95dglox2c "悬停显示")	
 
-[models](https://mcgill-my.sharepoint.com/:f:/g/personal/tianyu_shi3_mail_mcgill_ca/EkBvFSLYhLFPid4nGEmVUl4B2muwkVa87w_nIwestZOHcQ?e=qHUozP "悬停显示")	
+[Models](https://mcgill-my.sharepoint.com/:f:/g/personal/tianyu_shi3_mail_mcgill_ca/EkBvFSLYhLFPid4nGEmVUl4B2muwkVa87w_nIwestZOHcQ?e=qHUozP "悬停显示")	
 
 ## Contact:
 Tianyu Shi(tianyu.shi3@mail.mcgill.ca) 
